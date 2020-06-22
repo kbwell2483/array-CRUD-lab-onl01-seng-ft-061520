@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  colors = ["Red", "Orange", "Yellow", "Green"]
-  colors << "Arrays
+  drinks = ["Water", "Milk", "Tea", "Wine"]
+  colors << "Beer"
 end
 
 def add_element_to_start_of_array(array, element)
