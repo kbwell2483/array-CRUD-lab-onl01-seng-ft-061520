@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   drinks = ["Water", "Milk", "Tea", "Wine"]
-  drinks.push("Beer")
+  drinks.push("Arrays")
   
 end
 
